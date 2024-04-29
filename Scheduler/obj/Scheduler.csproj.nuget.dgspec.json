@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\Scheduler\\Scheduler.csproj": {}
+    "C:\\Git\\hardware-scheduler\\Scheduler\\Scheduler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\Scheduler\\Scheduler.csproj": {
+    "C:\\Git\\hardware-scheduler\\Scheduler\\Scheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\Scheduler\\Scheduler.csproj",
+        "projectUniqueName": "C:\\Git\\hardware-scheduler\\Scheduler\\Scheduler.csproj",
         "projectName": "Scheduler",
-        "projectPath": "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\Scheduler\\Scheduler.csproj",
+        "projectPath": "C:\\Git\\hardware-scheduler\\Scheduler\\Scheduler.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\Scheduler\\obj\\",
+        "outputPath": "C:\\Git\\hardware-scheduler\\Scheduler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.128.99/packages/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
