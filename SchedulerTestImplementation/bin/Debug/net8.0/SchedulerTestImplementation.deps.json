@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SchedulerTestImplementation/1.0.0": {
+        "dependencies": {
+          "Scheduler": "1.0.0"
+        },
+        "runtime": {
+          "SchedulerTestImplementation.dll": {}
+        }
+      },
+      "Scheduler/1.0.0": {
+        "runtime": {
+          "Scheduler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchedulerTestImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scheduler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

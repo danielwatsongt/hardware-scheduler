@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQR45WmOtiuBIby2u//Y2DgadPs5AZmrmM/Vx8rQ5L881XnLy/plSLbz6XehH2T/ABAxjWH0EshNw9t3XkF27A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Downloads\\HardwareScheduler\\HardwareScheduler\\SchedulerTestImplementation\\SchedulerTestImplementation.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.128.99/packages/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
