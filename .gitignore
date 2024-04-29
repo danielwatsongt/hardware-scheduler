@@ -3,7 +3,5 @@
 ################################################################################
 
 /.vs
-/Scheduler/bin
-/Scheduler/obj
-/SchedulerTestImplementation/bin
-/SchedulerTestImplementation/obj
+**/bin/
+**/obj/
